@@ -61,6 +61,7 @@
     ".changes/http-user-agent.md",
     ".changes/impl-ext-for-webview-windows.md",
     ".changes/msrv-1.75.md",
+    ".changes/named-tempfile-updater-windows.md",
     ".changes/notifcation-permission-commands.md",
     ".changes/notification-fix-dev-check.md",
     ".changes/notification-fix-dev-name.md",

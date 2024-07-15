@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-beta.14]
+
+### Dependencies
+
+- Upgraded to `updater@2.0.0-beta.11`
+
 ## \[2.0.0-beta.13]
 
 ### Dependencies
